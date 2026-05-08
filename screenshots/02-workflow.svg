@@ -1,0 +1,50 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#08111E"/>
+  <rect x="64" y="54" width="1312" height="792" rx="34" fill="#10182A" stroke="#223454" stroke-width="2"/>
+  <text x="112" y="128" fill="#7DC8FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="8">SCORING WORKFLOW</text>
+  <text x="112" y="214" fill="#F4EBD5" font-family="Georgia, serif" font-size="60" font-weight="700">
+    <tspan x="112" dy="0">From signal ingestion to ranked action</tspan>
+    <tspan x="112" dy="66">without losing operational context.</tspan>
+  </text>
+  <rect x="112" y="330" width="252" height="280" rx="30" fill="#17233C" stroke="#2A4168"/>
+  <rect x="426" y="330" width="252" height="280" rx="30" fill="#17233C" stroke="#2A4168"/>
+  <rect x="740" y="330" width="252" height="280" rx="30" fill="#17233C" stroke="#2A4168"/>
+  <rect x="1054" y="330" width="252" height="280" rx="30" fill="#17233C" stroke="#2A4168"/>
+  <text x="144" y="382" fill="#F7B9E0" font-family="Segoe UI, Arial, sans-serif" font-size="22">1. INPUTS</text>
+  <text x="144" y="440" fill="#F4EBD5" font-family="Georgia, serif" font-size="38" font-weight="700">Signal payloads</text>
+  <text x="144" y="488" fill="#B4BED4" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    <tspan x="144" dy="0">Revenue, AI, customer,</tspan>
+    <tspan x="144" dy="34">security, and ops feeds</tspan>
+    <tspan x="144" dy="34">arrive in one model.</tspan>
+  </text>
+  <text x="458" y="382" fill="#F7B9E0" font-family="Segoe UI, Arial, sans-serif" font-size="22">2. NORMALIZE</text>
+  <text x="458" y="440" fill="#F4EBD5" font-family="Georgia, serif" font-size="38" font-weight="700">Pandas frame</text>
+  <text x="458" y="488" fill="#B4BED4" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    <tspan x="458" dy="0">Deltas, target gaps,</tspan>
+    <tspan x="458" dy="34">confidence, and urgency</tspan>
+    <tspan x="458" dy="34">get made comparable.</tspan>
+  </text>
+  <text x="772" y="382" fill="#F7B9E0" font-family="Segoe UI, Arial, sans-serif" font-size="22">3. SCORE</text>
+  <text x="772" y="440" fill="#F4EBD5" font-family="Georgia, serif" font-size="38" font-weight="700">Pressure ranking</text>
+  <text x="772" y="488" fill="#B4BED4" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    <tspan x="772" dy="0">Weighted pressure turns</tspan>
+    <tspan x="772" dy="34">fragmented metrics into</tspan>
+    <tspan x="772" dy="34">one composite story.</tspan>
+  </text>
+  <text x="1086" y="382" fill="#F7B9E0" font-family="Segoe UI, Arial, sans-serif" font-size="22">4. OUTPUT</text>
+  <text x="1086" y="440" fill="#F4EBD5" font-family="Georgia, serif" font-size="38" font-weight="700">Briefing narrative</text>
+  <text x="1086" y="488" fill="#B4BED4" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    <tspan x="1086" dy="0">Headline, why-it-matters,</tspan>
+    <tspan x="1086" dy="34">and owned next actions</tspan>
+    <tspan x="1086" dy="34">come back API-ready.</tspan>
+  </text>
+  <path d="M364 470H426" stroke="#7DC8FF" stroke-width="4"/>
+  <path d="M678 470H740" stroke="#7DC8FF" stroke-width="4"/>
+  <path d="M992 470H1054" stroke="#7DC8FF" stroke-width="4"/>
+  <rect x="112" y="660" width="1194" height="116" rx="24" fill="#152036" stroke="#284062"/>
+  <text x="146" y="712" fill="#F4EBD5" font-family="Georgia, serif" font-size="34" font-weight="700">Result:</text>
+  <text x="244" y="712" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="28">
+    FastAPI becomes the intelligence layer behind executive briefing surfaces, not just another CRUD API.
+  </text>
+</svg>
+

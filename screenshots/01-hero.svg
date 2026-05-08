@@ -1,0 +1,38 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#091321"/>
+  <rect x="48" y="42" width="1344" height="816" rx="34" fill="#11192B" stroke="#223253" stroke-width="2"/>
+  <text x="88" y="122" fill="#7DC8FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="8">BRIEFING INTELLIGENCE ENGINE</text>
+  <text x="88" y="220" fill="#F4EBD5" font-family="Georgia, Times New Roman, serif" font-size="68" font-weight="700">
+    <tspan x="88" dy="0">Score fragmented operating pressure</tspan>
+    <tspan x="88" dy="74">before it becomes executive surprise.</tspan>
+  </text>
+  <text x="88" y="342" fill="#A8B2C8" font-family="Segoe UI, Arial, sans-serif" font-size="28">
+    <tspan x="88" dy="0">Revenue, growth, AI, customer, security, and operations signals are normalized,</tspan>
+    <tspan x="88" dy="38">ranked, and translated into the next actions an operating review actually needs.</tspan>
+  </text>
+  <rect x="88" y="430" width="292" height="164" rx="26" fill="#18223A" stroke="#2A3D63"/>
+  <rect x="408" y="430" width="292" height="164" rx="26" fill="#18223A" stroke="#2A3D63"/>
+  <rect x="728" y="430" width="292" height="164" rx="26" fill="#18223A" stroke="#2A3D63"/>
+  <rect x="1048" y="430" width="292" height="164" rx="26" fill="#18223A" stroke="#2A3D63"/>
+  <text x="120" y="478" fill="#95A4C4" font-family="Segoe UI, Arial, sans-serif" font-size="18">LIVE BRIEFINGS</text>
+  <text x="120" y="548" fill="#F4EBD5" font-family="Georgia, serif" font-size="54" font-weight="700">12</text>
+  <text x="120" y="582" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Monthly and quarterly review packs</text>
+  <text x="440" y="478" fill="#95A4C4" font-family="Segoe UI, Arial, sans-serif" font-size="18">SIGNALS SCORED</text>
+  <text x="440" y="548" fill="#F4EBD5" font-family="Georgia, serif" font-size="54" font-weight="700">41</text>
+  <text x="440" y="582" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Pressure, variance, and confidence normalized</text>
+  <text x="760" y="478" fill="#95A4C4" font-family="Segoe UI, Arial, sans-serif" font-size="18">EXECUTIVE VISIBLE</text>
+  <text x="760" y="548" fill="#F4EBD5" font-family="Georgia, serif" font-size="54" font-weight="700">5</text>
+  <text x="760" y="582" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24">Cross-functional issues already above threshold</text>
+  <text x="1080" y="478" fill="#95A4C4" font-family="Segoe UI, Arial, sans-serif" font-size="18">AVG. CONFIDENCE</text>
+  <text x="1080" y="548" fill="#F4EBD5" font-family="Georgia, serif" font-size="54" font-weight="700">0.83</text>
+  <text x="1080" y="582" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24">High enough to act, not just observe</text>
+  <rect x="88" y="638" width="1252" height="168" rx="28" fill="#162037" stroke="#263A5C"/>
+  <text x="120" y="692" fill="#F7B9E0" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="6">CURRENT LEAD SIGNAL</text>
+  <text x="120" y="746" fill="#F4EBD5" font-family="Georgia, serif" font-size="46" font-weight="700">
+    Northstar needs immediate coordination around pipeline coverage compression.
+  </text>
+  <text x="120" y="786" fill="#B2BDD4" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    Revenue planning, AI fallback cost, and identity backlog are converging inside the same executive story.
+  </text>
+</svg>
+
