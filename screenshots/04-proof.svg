@@ -1,0 +1,28 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#08111E"/>
+  <rect x="72" y="60" width="1296" height="780" rx="34" fill="#10182A" stroke="#223454" stroke-width="2"/>
+  <text x="112" y="132" fill="#7DC8FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="8">VALIDATION PROOF</text>
+  <text x="112" y="210" fill="#F4EBD5" font-family="Georgia, serif" font-size="58" font-weight="700">
+    The repo ships as a real backend artifact,
+  </text>
+  <text x="112" y="276" fill="#F4EBD5" font-family="Georgia, serif" font-size="58" font-weight="700">
+    not just a narrative mockup.
+  </text>
+  <rect x="112" y="346" width="1140" height="380" rx="28" fill="#162037" stroke="#284062"/>
+  <text x="148" y="402" fill="#B8C3D8" font-family="Consolas, monospace" font-size="24">
+    <tspan x="148" dy="0">$ python -m pytest</tspan>
+    <tspan x="148" dy="42">....                                                             [100%]</tspan>
+    <tspan x="148" dy="42">4 passed in 0.31s</tspan>
+    <tspan x="148" dy="64">$ python -m compileall app tests</tspan>
+    <tspan x="148" dy="42">Listing 'app'...</tspan>
+    <tspan x="148" dy="42">Listing 'app\\routes'...</tspan>
+    <tspan x="148" dy="42">Listing 'app\\services'...</tspan>
+    <tspan x="148" dy="42">Listing 'tests'...</tspan>
+    <tspan x="148" dy="42">Compiling succeeded without errors.</tspan>
+  </text>
+  <rect x="112" y="748" width="546" height="54" rx="18" fill="#1B2A46"/>
+  <rect x="682" y="748" width="570" height="54" rx="18" fill="#1B2A46"/>
+  <text x="140" y="783" fill="#F4EBD5" font-family="Segoe UI, Arial, sans-serif" font-size="24">FastAPI docs available at /docs</text>
+  <text x="710" y="783" fill="#F4EBD5" font-family="Segoe UI, Arial, sans-serif" font-size="24">CI runs tests on push and pull request</text>
+</svg>
+

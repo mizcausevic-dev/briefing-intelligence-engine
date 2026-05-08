@@ -1,0 +1,28 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#09111D"/>
+  <rect x="54" y="42" width="1332" height="816" rx="34" fill="#11192B" stroke="#223253" stroke-width="2"/>
+  <text x="96" y="118" fill="#7DC8FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="8">PRIORITY SURFACE</text>
+  <text x="96" y="206" fill="#F4EBD5" font-family="Georgia, serif" font-size="58" font-weight="700">
+    <tspan x="96" dy="0">Three actions the next executive</tspan>
+    <tspan x="96" dy="66">briefing should force into motion.</tspan>
+  </text>
+  <rect x="96" y="314" width="1240" height="144" rx="26" fill="#18233B" stroke="#2A4168"/>
+  <rect x="96" y="486" width="1240" height="144" rx="26" fill="#18233B" stroke="#2A4168"/>
+  <rect x="96" y="658" width="1240" height="144" rx="26" fill="#18233B" stroke="#2A4168"/>
+  <text x="132" y="370" fill="#F36B8A" font-family="Segoe UI, Arial, sans-serif" font-size="24">CRITICAL · Revenue Operations · Due in 9 days</text>
+  <text x="132" y="418" fill="#F4EBD5" font-family="Georgia, serif" font-size="36" font-weight="700">Stabilize pipeline coverage compression</text>
+  <text x="132" y="448" fill="#B6C1D6" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    Coverage is under plan and now carries the highest weighted pressure in the briefing set.
+  </text>
+  <text x="132" y="542" fill="#F7B24D" font-family="Segoe UI, Arial, sans-serif" font-size="24">HIGH · AI Platform · Due in 4 days</text>
+  <text x="132" y="590" fill="#F4EBD5" font-family="Georgia, serif" font-size="36" font-weight="700">Reduce prompt fallback masking and latency debt</text>
+  <text x="132" y="620" fill="#B6C1D6" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    Guardrail-safe reroutes are protecting outputs, but the hidden cost curve is steepening.
+  </text>
+  <text x="132" y="714" fill="#86F1A8" font-family="Segoe UI, Arial, sans-serif" font-size="24">HIGH · Security Operations · Due in 11 days</text>
+  <text x="132" y="762" fill="#F4EBD5" font-family="Georgia, serif" font-size="36" font-weight="700">Cut the access review backlog before it hits customer delivery</text>
+  <text x="132" y="792" fill="#B6C1D6" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    Remediation drag is already impacting the same teams carrying expansion and renewal pressure.
+  </text>
+</svg>
+
